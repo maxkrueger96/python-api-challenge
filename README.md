@@ -32,4 +32,6 @@ Repo for Chapter 6 Homework
 ### Not in the US 
 ### Cloudiness less than 50%
 ### and Wind Speed less than 5 mph
-## This left me with a sensible 14 cities.
+## This left me with a sensible 8 cities to work with.
+
+### Then, it was an easy matter using the google places API to find the hotels and plot them on the heatmap.
