@@ -1,10 +1,9 @@
 # Adding config.py file.
-api_key.py
+VacationPY/API/api_key.py
 api_scrape.py
-./WeatherPy/API
+WeatherPy/API/api_key.py
 API_practice.ipynb
 random_numbers.ipynb
-./line_profiler
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
