@@ -4,7 +4,6 @@ api_scrape.py
 WeatherPy/API/api_key.py
 API_practice.ipynb
 random_numbers.ipynb
-.vscode
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
